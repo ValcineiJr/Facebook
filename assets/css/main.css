@@ -1,0 +1,19 @@
+.header{
+	height: 42px;
+	width: 100%;
+	background-color: rgb(65,94,155);
+}
+.header1{
+	height: 42px;
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+	background-color: rgb(65,94,155);
+}
+.img{
+	width: 38px;
+	height: 38px;
+}
+.busca{	
+	float: left;
+}
